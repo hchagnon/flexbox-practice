@@ -1,1 +1,2 @@
 # flexbox-practice
+This is a small project that I assigned to myself after reading the Introduction to Flexbox chapter in the Flexbox section of The Odin Project Foundations course. There was an image at the end of the page showing how multiple flex containers can be combined to create more complex designs. So, I thought it would be interesting to see if I could replicate the design in the image before moving on to learn more about Flexbox.
